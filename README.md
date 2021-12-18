@@ -1,2 +1,2 @@
 # test-demo
-Demo repo to show off how to make repos
+Showing students how to set up repos in github
